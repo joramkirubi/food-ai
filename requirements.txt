@@ -3,3 +3,5 @@ uvicorn
 python-dotenv
 openai
 pydantic
+python-telegram-bot==20.0
+requests
