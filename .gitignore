@@ -1,0 +1,27 @@
+# ⛔ Do not upload environment keys
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment folders
+env/
+venv/
+.venv/
+
+# VSCode
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Uvicorn reload cache
+*.pid
+
+# Byte-compiled / optimized / DLL files
+*.egg-info/
+dist/
+build/
